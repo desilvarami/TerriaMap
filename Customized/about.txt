@@ -1,0 +1,1 @@
+This folder contains the customized files of TerriaMap. Ex: simple.json, config.json. index.html etc.
